@@ -8,7 +8,7 @@ public interface UserDao {
 	//update t_user set name=? where id = ?
 	
 	/**
-	 * 根据id去更新具体的用户名
+	 * 根据id去更新具体户名
 	 * @param id
 	 * @param name
 	 */
